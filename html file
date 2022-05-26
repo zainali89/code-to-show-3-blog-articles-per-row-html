@@ -1,0 +1,156 @@
+	
+<section class="3-by3">
+	<div class="first-col col-xs-12 ">
+		<ul>
+			<li class="fc-f-li">
+				<div class="fc-f-li-img">
+					<a href="#">
+						<img class="news-img" src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="fc-f-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="news-img" class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+			
+			<li class="fc-s-li">	
+				<div class="fc-s-li-img">
+					<a href="#">
+						<img class="news-img" src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="fc-s-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+			
+			<li class="fc-t-li">
+				<div class="fc-t-li-img">
+					<a href="#">
+						<img src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="fc-t-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+		</ul> 
+	</div>
+	
+	
+	
+	
+	<div class="second-col col-xs-12">
+		<ul>
+			<li class="sc-f-li">
+				<div class="sc-f-li-img">
+					<a href="#">
+						<img src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="sc-f-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+			
+			<li class="sc-s-li">	
+				<div class="sc-s-li-img">
+					<a href="#">
+						<img src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="sc-s-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+			
+			<li class="sc-t-li">
+				<div class="sc-t-li-img">
+					<a href="#">
+						<img src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="sc-t-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+		</ul>
+	</div>
+	
+	
+	
+	
+	
+	<div class="third-col col-xs-12">
+		<ul>
+			<li class="tc-f-li">
+				<div class="tc-f-li-img">
+					<a href="#">
+						<img src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="tc-f-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+			
+			<li class="tc-s-li">	
+				<div class="tc-s-li-img">
+					<a href="#">
+						<img src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="tc-s-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+			
+			<li class="tc-t-li">
+				<div class="tc-t-li-img">
+					<a href="#">
+						<img src="https://www.woowhonetwork.com/images/woowhoo-ntwork.png" alt="">
+					</a>
+				</div>
+				<div class="tc-t-li-text">
+					<h3 class="headig">
+						<a href="#">
+							<span class="">What's behind fashion's obsession with toes</span>
+						</a>
+					</h3>
+				</div>
+			</li>
+		</ul>
+	</div>
+</section>
